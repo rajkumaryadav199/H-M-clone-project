@@ -13,7 +13,7 @@ In this project we were 5 member of people completed this project in 5 days. And
 ![Screenshot (1100)](https://user-images.githubusercontent.com/93375598/158752177-aee28e7e-c027-4824-95fd-9aa817471397.png)
 
 # Technology Stack used.
-*HTML
-*CSS
-*Javascript
+###HTML
+###CSS
+###Javascript
 
