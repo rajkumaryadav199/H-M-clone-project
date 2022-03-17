@@ -3,6 +3,16 @@
 An e-commerce website which speciaizes in selling  cloths in the US.The website provide many brands. 
 In this project we were 5 member of people completed this project in 5 days. And we are tried to make alike clone with our efforts and the techonology stack, that we have learned till unit 3 in masai school.
 
+# Technology Stack used.
+###### HTML
+###### CSS
+###### JavaScript
+###### To store data we use local storage.
+
+# Libraries used.
+###### All the icon and images taken from main website.
+
+
 
 # Images related to project
 ![Screenshot (1094)](https://user-images.githubusercontent.com/93375598/158751590-34edd4f8-df59-4bda-b5ca-3d1865910e4f.png)
@@ -12,8 +22,5 @@ In this project we were 5 member of people completed this project in 5 days. And
 ![Screenshot (1099)](https://user-images.githubusercontent.com/93375598/158752164-42cfeb6a-3a64-4871-94b7-3c668ab27439.png)
 ![Screenshot (1100)](https://user-images.githubusercontent.com/93375598/158752177-aee28e7e-c027-4824-95fd-9aa817471397.png)
 
-# Technology Stack used.
-###### HTML
-###### CSS
-###### JavaScript
+
 
