@@ -7,6 +7,9 @@ In this project we were 5 member of people completed this project in 5 days. And
 ###### HTML
 ###### CSS
 ###### JavaScript
+###### Express
+###### MongoDB
+###### Node.js
 ###### To store data we use local storage.
 
 # Libraries used.
